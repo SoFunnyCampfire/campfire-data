@@ -1,0 +1,6 @@
+installUrl=http://10.30.40.124:5566/Build/T1/daily/ios/2022-09-05/client-2022-09-05-github.ipa
+packageName=client-2022-09-05-github.ipa
+packageSortName=client-2022-09-05-github
+packagePath=/Users/mmo-t1/DevOps/jenkins/job/build/T1/daily/ios/2022-09-05/client-2022-09-05-github.ipa
+packagePathRoot=/Users/mmo-t1/DevOps/jenkins/job/build/T1/daily/ios/2022-09-05
+logUrl=http://10.30.40.124:5566/Build/T1/daily/ios/2022-09-05/client-2022-09-05-github.log
